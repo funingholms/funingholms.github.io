@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Fiona Funing Yang # your name (or website title) here
+logo: "/images/68650667_2949900848568791_7749731241057845248_n.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Interested in the dust that settles when two worlds collide 
   <br><br>
-  Second description 
+  Specialist-turned-generalist with a highly inflamed sense of depth. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/fiona-yang-funing/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
