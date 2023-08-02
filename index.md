@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Will You Trust to Commit - A Behavioral Economics Experiment](pdf/Fiona Yang_UXR Portfolio.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
