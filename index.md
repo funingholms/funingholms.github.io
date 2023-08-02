@@ -9,7 +9,7 @@
 
 ---
 [Will You Trust to Commit - A Behavioral Economics Experiment](pdf/Fiona Yang_UXR Portfolio.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/zryKtFcvlFCt0E7aqGUf--1--arf67.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
