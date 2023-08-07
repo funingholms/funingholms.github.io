@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### A Bit More
 
 - [Excel Script - MRR - Hubspot](https://drive.google.com/drive/folders/1zjaVoQJHPMk8SUML4XuZ4YRlGC9KEHGC?usp=drive_link)
 - [Strategic Partnership - 3-sided Marketplace](https://drive.google.com/drive/folders/1NZY-yPitznBoyF12VXtOEz4W6CvPHLov?usp=drive_link)
