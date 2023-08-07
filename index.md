@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Catch a Glimpse 
 
-[Project 1 Title](/sample_page)
+[Strategy & Ops - Ride-hailing & Delivery](https://drive.google.com/drive/folders/1SixZqgOTAR6knNeT41y3F3Nd9q6VxrMe?usp=drive_link)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,24 +12,19 @@
 <img src="images/zryKtFcvlFCt0E7aqGUf--1--arf67.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Program Management](https://drive.google.com/drive/folders/1GauFJyGNiRhYUMvRw9ThF4yQMhEVO9Dx?usp=drive_link)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Excel Script - MRR - Hubspot](https://drive.google.com/drive/folders/1zjaVoQJHPMk8SUML4XuZ4YRlGC9KEHGC?usp=drive_link)
+- [Strategic Partnership - 3-sided Marketplace](https://drive.google.com/drive/folders/1NZY-yPitznBoyF12VXtOEz4W6CvPHLov?usp=drive_link)
 
 ---
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
