@@ -13,7 +13,7 @@
 
 ---
 [Program Management](https://drive.google.com/drive/folders/1GauFJyGNiRhYUMvRw9ThF4yQMhEVO9Dx?usp=drive_link)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/model accuracy (logit).png?raw=true"/>
 
 ---
 
